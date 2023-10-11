@@ -93,5 +93,11 @@ perintah git push.
 $ git push -u origin master
 • Perintah ini akan meminta memasukkan username dan password
 pada akun github.com
-![gambar tujuh](tujuh.png)
+
+![Gambar 5](tujuh.png)
+
+
+## Nanti akan muncul di github sperti ini 
+![Gambar 5](88.png)
+
 
